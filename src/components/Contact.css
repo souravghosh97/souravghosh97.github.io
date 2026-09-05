@@ -1,0 +1,22 @@
+.contact {
+  border-bottom: none;
+}
+
+.contact__text {
+  max-width: 60ch;
+  color: var(--text-muted);
+  margin-top: calc(-1 * var(--space-4));
+}
+
+.contact__links {
+  display: flex;
+  gap: var(--space-3);
+  flex-wrap: wrap;
+  margin-top: var(--space-5);
+}
+
+.contact__location {
+  margin-top: var(--space-5);
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}

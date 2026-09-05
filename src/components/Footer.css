@@ -1,0 +1,14 @@
+.footer {
+  padding: var(--space-4) 0;
+}
+
+.footer__inner {
+  display: flex;
+  justify-content: space-between;
+  color: var(--text-muted);
+  font-size: 0.85rem;
+}
+
+.footer__inner a:hover {
+  color: var(--accent-2);
+}

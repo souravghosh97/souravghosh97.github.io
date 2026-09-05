@@ -1,0 +1,5 @@
+.about__text {
+  max-width: 72ch;
+  font-size: 1.05rem;
+  color: var(--text-muted);
+}
